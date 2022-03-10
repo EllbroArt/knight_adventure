@@ -4983,6 +4983,8 @@ self.C3_JsPropNameTable = [
 	{Sprite3: 0},
 	{Id: 0},
 	{Closed: 0},
+	{TRUE: 0},
+	{ADs: 0},
 	{HP_UPs: 0},
 	{DMG_UPs: 0},
 	{Sprite4: 0},
